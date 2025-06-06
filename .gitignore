@@ -1,0 +1,65 @@
+# ==================================================
+# 🌱 SPRING BOOT + MAVEN .gitignore
+# ==================================================
+
+# Java compiled class files
+*.class
+
+# Log files
+*.log
+
+# Build output
+/target/
+build/
+
+# Maven stuff
+.mvn/
+!**/src/main/**/target/
+!**/src/test/**/target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Maven wrapper
+.mvn/wrapper/maven-wrapper.jar
+mvnw
+mvnw.cmd
+
+# Application properties / secrets
+application.properties
+application.yml
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs: IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+.sts4-cache
+.springBeans
+
+# IDEs: Eclipse / STS
+.classpath
+.project
+.settings/
+.apt_generated/
+.factorypath
+
+# IDEs: VS Code
+.vscode/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Other
+HELP.md
