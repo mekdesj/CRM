@@ -1,0 +1,10 @@
+com\crm\crm_backend\controller\AuthController.class
+com\crm\crm_backend\security\JwtUtil.class
+com\crm\crm_backend\CrmBackendApplication.class
+com\crm\crm_backend\service\CustomUserDetailsService.class
+com\crm\crm_backend\dto\AuthRequest.class
+com\yourcompany\crm\entity\User.class
+com\crm\crm_backend\dto\AuthResponse.class
+com\crm\crm_backend\config\SecurityConfig.class
+com\crm\crm_backend\repository\UserRepository.class
+com\crm\crm_backend\security\JwtFilter.class
