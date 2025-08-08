@@ -1,13 +1,13 @@
-# 💼 CRM System Backend (Spring Boot)
+💼 CRM System Backend (Spring Boot)
 
 This is the **backend API** for the full-stack **Customer Relationship Management (CRM)** system.  
 It handles all **business logic**, **data storage**, **authentication**, and **role-based access control**.
 
 Built with **Spring Boot** for security, scalability, and clean architecture.
 
----
 
-## 📋 Features
+
+ 📋 Features
 
 ✅ **Lead Management** – Add, update, assign, and track potential clients  
 ✅ **Customer Management** – Store and manage customer details and history  
@@ -18,9 +18,9 @@ Built with **Spring Boot** for security, scalability, and clean architecture.
 ✅ **Pagination & Sorting** – Handle large datasets efficiently  
 ✅ **MySQL Database** – Structured and reliable data storage
 
----
 
-## 🏗️ Tech Stack
+
+ 🏗️ Tech Stack
 
 - **Java 17**
 - **Spring Boot**
@@ -31,8 +31,8 @@ Built with **Spring Boot** for security, scalability, and clean architecture.
 
 ---
 
-## 🔗 Related Projects
+🔗 Related Projects
 
-- **Frontend (Flutter)** → [link-to-frontend-repo](#)
+- **Frontend (Flutter)** → [ https://github.com/mekdesj/flutter-crm-frontend- ]
 
 ---
